@@ -21,7 +21,7 @@
 #define TIME_NEXT 50
 //定义有名管道标识
 #define FIFO "/home/chaonice/桌面/git/ctw/cplus_2022/进程/indoor.txt"
-//#define FIFO2 "/home/ctw/桌面/实习培训作业/进程初探（第二周）/zuoye/tonghua.txt"    //----------->用于梯口机phone和室内机phone在接听状态下交流
+//#define FIFO2 "/home/chaonice/桌面/git/ctw/cplus_2022/进程/zuoye/tonghua.txt"    //----------->用于梯口机phone和室内机phone在接听状态下交流
 //定义消息结构体：
 #define MSG_DATA_LEN 128
 struct message
